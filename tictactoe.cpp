@@ -1,7 +1,7 @@
 /**
  
     baştan savma yazdım okunurluğu biraz dusuk ama yapıcak bir sey yok :D
-    bir sonrakinde bilgisayara karşı yarışma ve okunaklığı arttırmaya çalışırım. 
+    bir sonrakinde bilgisayara karşı yarışma eklerim ve okunaklığı arttırmaya çalışırım. 
     bide işaretçi bağımlısıyım maalesef illaki olcak her projede.
 
 **/
